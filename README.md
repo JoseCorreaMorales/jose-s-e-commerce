@@ -13,3 +13,6 @@ To use the website, simply navigate to the homepage and start browsing products.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## Resources
+reference images taken from [Organic-shop ](https://websitedemos.net/organic-shop-02/)
